@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>286761658-ioflbo3rub6eesv9b9acmaob8tmuu1e9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.286761658-ioflbo3rub6eesv9b9acmaob8tmuu1e9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>286761658-q7malo8okpc59tl416juqtlj50uvbbra.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>xxxxxx</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286761658</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bolt.plus</string>
+	<key>PROJECT_ID</key>
+	<string>bolt-plus</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bolt-plus.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286761658:ios:2330cf28f090b0c9</string>
+	<key>DATABASE_URL</key>
+	<string>https://bolt-plus.firebaseio.com</string>
+</dict>
+</plist>

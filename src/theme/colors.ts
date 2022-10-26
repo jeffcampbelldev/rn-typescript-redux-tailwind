@@ -1,0 +1,16 @@
+export const DARK_PURPLE = '#0A0C1F';
+export const DARK_PURPLE_1 = '#191431';
+export const LIGHT_PURPLE = '#302957';
+export const LIGHT_PURPLE_25 = '#30295740';
+export const MIDDLE_PURPLE = 'rgba(89, 73, 177, 0.5)';
+export const MIDDLE_PURPLE_1 = 'rgba(89, 73, 177, 0.15)';
+export const PURPLE = '#6535e9';
+export const PURPLE_END = '#4E33E9';
+export const PURPLE_RED = '#8c35e9';
+export const WHITE = '#FFF';
+export const BLACK = '#000';
+export const PURPLE_GRADIENT_START = '#5949B188';
+export const PURPLE_GRADIENT_END = '#1D183A';
+export const PURPLE_SELECT = '#383259';
+export const MODAL_BG = '#1D183A';
+export const BOTTOM_BAR_BG = '#2f2f2f';
